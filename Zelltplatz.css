@@ -1,0 +1,88 @@
+body{
+    background-color: #2fac37;
+}
+
+
+
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+    position: relative;
+    left: 410px;
+}
+
+
+
+
+
+
+
+
+
+
+
+p2{
+    font-size: 20px;
+    position: relative;
+    left: 630px;
+}
+
+
+
+p5{
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+}
+
+p6{
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    left: 625px;
+}
+
+
+
+a{
+    color:black;
+    font-size: 20px;
+    
+    position: relative;
+    right: 2px;
+
+}
+
+
+p7{
+    font-size: 20px;
+    position: relative;
+    left:2px;
+}
+
+
+
+
+div{
+    position: relative;
+    left: 900px;
+    
+}

@@ -1,0 +1,60 @@
+body{
+    background-color: #5e9ca0;
+}
+
+
+
+
+
+
+
+h{
+    position: relative;
+    left: 500px;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+
+
+.btn-primary{
+    color:#000000;
+    background-color:#5eedf7;
+    border-color:#5eedf7;
+    
+    position: relative;
+    left: 570px
+}
+    
+ 
+
+
+
+
+
+.btn{
+    text-decoration: none;
+    font-size: 20px;
+    border-radius:700px;
+    font-weight:300;
+}
+
+.btn-xl{
+    padding:15px 30px
+}
+
+
+
+
+
+.bg-primary{
+    background-color:#5eedf7
+}
+
+
+
+
+img{
+    position: relative;
+    left: 400px;
+}
